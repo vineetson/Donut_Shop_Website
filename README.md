@@ -1,5 +1,5 @@
 # Donut_Shop_Website
 
-This a website of a donut shop made with HTML, CSS, JS and LOVE by Vineet Soni
+This is a website of a donut shop made with HTML, CSS, JS, and LOVE by Vineet Soni
 
-[Click to View Image](images\img.png)
+[Click to View Image](images/img.png)
